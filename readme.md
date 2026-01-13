@@ -6,5 +6,6 @@
     - It will have 3 file by the end
 
     ```py
-    print ("Hello Git")
+    print ("Hello Git!")
     ```
+    
